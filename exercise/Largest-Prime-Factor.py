@@ -1,4 +1,4 @@
-This Python code finds the largest prime factor of a given positive integer num.
+# This Python code finds the largest prime factor of a given positive integer num.
 
 def big_prime(num):
     divisor = []
